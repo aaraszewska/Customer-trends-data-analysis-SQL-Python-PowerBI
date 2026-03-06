@@ -13,3 +13,14 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 <img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/b7f0d241-a7eb-4f42-8c6f-82e593e441e3" />\
 
+## Provided data-driven business recommendations, including:
+
+boosting subscription adoption through exclusive benefits,
+
+introducing loyalty programs to convert repeat buyers into loyal customers,
+
+optimizing discount strategies to balance sales growth with profit margins,
+
+highlighting top-rated and best-selling products in marketing campaigns,
+
+targeting high-revenue customer segments and express-shipping users.
